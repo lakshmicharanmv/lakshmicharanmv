@@ -10,46 +10,62 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 - 💡 Focused on building data-driven web apps and AI-powered solutions
-- 🧠 Interested in: Full-Stack Development | Computer Vision | Natural Language Processing
-- 🌱 Currently exploring **React.js**, **AI Agents**, and **ML Model Deployment**
-- 🚀 Exploring ways to combine **AI + Real-World Use Cases**, especially in education and health
-- 🎯 Goal: To become a Software & Data Engineer contributing to products that matter
+- 🧠 Fields of Interest: AI/ML, Full-Stack Web Apps, Data Visualization
+- 🌱 Currently exploring **React.js**, **AI Agents**, **ML Deployment**
+- 🚀 Passionate about solving real-world problems using technology
+- 🎯 Goal: Become a Software & Data Engineer contributing to impactful products
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,html,css,tailwind,mysql,mongodb,git,github,linux,vercel,tensorflow" />
+  
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java" title="Python, Java" />
+
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" title="HTML, CSS, JavaScript, ReactJS" />
+
+  <!-- Data Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" title="MySQL, MongoDB" />
+  <br/>
+  
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI%2C%20Tableau%2C%20Excel-8A2BE2?style=flat-square" alt="Data Tools" />
+  <img src="https://img.shields.io/badge/Fundamentals-Data%20Structures%2C%20OOP%20Concepts-blueviolet?style=flat-square" alt="Fundamentals" />
+  <img src="https://skillicons.dev/icons?i=git,github" title="Git, GitHub" />
+
 </p>
 
 ---
 
 ## 💼 Featured Projects
-> 🔁 Explore more in the Repos tab
+
+> 🔁 Check out the pinned repositories to explore more
 
 ### 🔹 Career Compass AI  
-🎯 Personalized career insights powered by AI – Resume reviews, skill gap analysis & career roadmap.  
-🔧 Stack: Next.js, TypeScript, Tailwind CSS, Genkit AI  
-🔗 Live Demo: https://career-compass-ai-six.vercel.app  
+> AI-driven career planning platform with resume review & personalized recommendations  
+🔧 Stack: Next.js, Tailwind CSS, Google Gemini AI  
+🔗 Live: https://career-compass-ai-six.vercel.app
 
 ---
 
 ### 🔹 Vendor Performance Dashboard  
-📊 A full-stack BI dashboard tracking vendor profit & performance KPIs to support business decisions.  
+> Interactive BI dashboard improving business vendor decisions using KPIs and gross profit insights  
 🔧 Stack: Python, MySQL, Power BI
 
 ---
 
-### 🔹 Glaucoma Detection with Deep Learning (Work in Progress)  
-👁️ AI-driven tool using CNNs for early detection of glaucoma from retinal images.  
-🔧 Stack: TensorFlow, Python, OpenCV, Tkinter GUI
+### 🔹 Glaucoma Detection using CNN *(Work in Progress)*  
+> Detecting glaucoma from retinal images using deep learning  
+🔧 Stack: TensorFlow, Python, OpenCV
 
 ---
 
-## 🧮 GitHub Stats at a Glance
+## 🧮 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lakshmicharanmv&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
@@ -62,11 +78,11 @@
 
 ---
 
-## 🏅 Achievements & Highlights
-- 🥇 **Rajya Puraskar Awardee** – Bharat Scouts & Guides (2020)
-- 🧩 Hackathon Participant: Aptitude Hackathon 1.1, Nokia Student Hackathon
-- 📜 Verified Certifications from Udemy: MySQL, Git & GitHub
-- 🎖 NSS Participant – Driven by social impact, waste water analysis projects
+## 🏆 Achievements & Highlights  
+- 🥇 Rajya Puraskar Awardee – Bharat Scouts & Guides (2020)  
+- 🧠 Hackathon Participant: Aptitude Hackathon, Nokia Student Hackathon  
+- 🎓 Certified in MySQL and Git/GitHub (Udemy)  
+- 🧑‍🎓 Active NSS volunteer – involved in real-world environmental projects
 
 ---
 
@@ -80,4 +96,4 @@
 
 ---
 
-<p align="center"><i>⭐️ “Solving real-world problems one commit at a time.”</i></p>
+<p align="center"><i>⭐️ “Building solutions that inspire and make a difference — one commit at a time.”</i></p>
