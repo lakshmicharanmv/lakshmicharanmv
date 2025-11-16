@@ -51,25 +51,31 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshmicharanmv&theme=tokyonight&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshmicharanmv&theme=monokai&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
 ## 📊 Contribution & Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmicharanmv&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmicharanmv&theme=github-dark-dimmed&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:mvlakshmicharan07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
-  <a href="https://www.linkedin.com/in/lakshmicharanmv07/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+  <a href="mailto:mvlakshmicharan07@gmail.com" style="text-decoration:none;">
+    💌 <strong>Email</strong>: <span style="color:#4CAF50;">mvlakshmicharan07@gmail.com</span>
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/lakshmicharanmv07/" style="text-decoration:none;">
+    🔗 <strong>LinkedIn</strong>: <span style="color:#0077b5;">linkedin.com/in/lakshmicharanmv07</span>
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>⭐️ “Turning ideas into reality — one commit at a time.”</i></p>
+<p align="center"><i>⭐️ "Turning ideas into reality — one commit at a time."</i></p>
+
