@@ -36,30 +36,6 @@
 
 ---
 
-## Featured Projects
-
-### 🔹 Career Compass AI  
-> A smart career planning platform powered by AI to analyze profiles and suggest career paths.  
-> Includes resume reviews, skill gap analysis, and learning recommendations tailored to the user.  
-> Live Demo: https://career-compass-ai-six.vercel.app  
-> Built with Next.js, Gemini AI, and Tailwind for a seamless user experience.
-
----
-
-### 🔹 Vendor Performance Dashboard  
-> A BI tool designed to classify vendors using KPIs such as profit margin and performance rankings.  
-> Includes automated ETL pipeline, interactive visuals, and actionable business insights.  
-> Helps decision-makers optimize procurement strategies and improve profitability.
-
----
-
-### 🔹 Glaucoma Detection using CNN *(Work in Progress)*  
-> A machine learning system to classify retinal images as Glaucoma or Healthy using CNNs.  
-> Calculates cup-to-disc ratio and aids early detection through image-based diagnosis.  
-> Includes a user-friendly GUI for clinicians to get quick diagnostic results.
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -73,20 +49,11 @@
 
 ---
 
-## Achievements & Highlights  
-- Rajya Puraskar Awardee – Bharat Scouts & Guides (2020)  
-- Hackathon Participant: Aptitude Hackathon 1.1, Nokia Student Hackathon  
-- Certified in MySQL and Git/GitHub (Udemy)  
-- Active NSS volunteer involved in environmental and social initiatives  
-
----
-
 ## Connect With Me
 
 <p align="center">
   <a href="mailto:mvlakshmicharan07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
   <a href="https://www.linkedin.com/in/lakshmicharanmv07/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-  <a href="https://github.com/lakshmicharanmv"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
 </p>
 
 ---
