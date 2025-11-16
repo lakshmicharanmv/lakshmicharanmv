@@ -15,11 +15,11 @@
 ---
 
 ## 👨‍💻 About Me  
-- 💡 Focused on building data-driven web apps and AI-powered solutions  
-- 🧠 Interests: Machine Learning, Full-Stack Development, Data Visualization  
-- 🌱 Currently exploring **React.js**, **AI Agents**, and **ML Deployment**  
-- 🚀 On a mission to turn ideas into real-world impactful applications  
-- 🎯 Goal: Become a Software & Data Engineer driving innovation through tech  
+- Focused on building data-driven web apps and AI-powered solutions  
+- Interests: Machine Learning, Full-Stack Development, Data Visualization  
+- Currently exploring **React.js**, **AI Agents**, and **ML Deployment**  
+- On a mission to turn ideas into real-world impactful applications  
+- Goal: Become a Software & Data Engineer driving innovation through tech  
 
 ---
 
@@ -74,10 +74,10 @@
 ---
 
 ## 🏆 Achievements & Highlights  
-- 🥇 Rajya Puraskar Awardee – Bharat Scouts & Guides (2020)  
-- 🧠 Hackathon Participant: Aptitude Hackathon 1.1, Nokia Student Hackathon  
-- 📜 Certified in MySQL and Git/GitHub (Udemy)  
-- 🧑‍🎓 Active NSS volunteer involved in environmental and social initiatives  
+- Rajya Puraskar Awardee – Bharat Scouts & Guides (2020)  
+- Hackathon Participant: Aptitude Hackathon 1.1, Nokia Student Hackathon  
+- Certified in MySQL and Git/GitHub (Udemy)  
+- Active NSS volunteer involved in environmental and social initiatives  
 
 ---
 
