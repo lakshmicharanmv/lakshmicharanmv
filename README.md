@@ -49,21 +49,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshmicharanmv&theme=monokai&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-## 📊 Contribution & Activity Graph  
+## Contribution & Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmicharanmv&theme=github-dark-dimmed&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:mvlakshmicharan07@gmail.com">
