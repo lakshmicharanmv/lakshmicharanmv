@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 - Focused on building data-driven web apps and AI-powered solutions  
 - Interests: Machine Learning, Full-Stack Development, Data Visualization  
 - Currently exploring **React.js**, **AI Agents**, and **ML Deployment**  
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Programming-Python%2C%20Java-3776AB?style=for-the-badge" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 ### 🔹 Career Compass AI  
 > A smart career planning platform powered by AI to analyze profiles and suggest career paths.  
@@ -60,7 +60,7 @@
 
 ---
 
-## 🧮 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshmicharanmv&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
@@ -73,7 +73,7 @@
 
 ---
 
-## 🏆 Achievements & Highlights  
+## Achievements & Highlights  
 - Rajya Puraskar Awardee – Bharat Scouts & Guides (2020)  
 - Hackathon Participant: Aptitude Hackathon 1.1, Nokia Student Hackathon  
 - Certified in MySQL and Git/GitHub (Udemy)  
@@ -81,7 +81,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:mvlakshmicharan07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
