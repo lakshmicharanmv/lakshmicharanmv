@@ -39,12 +39,26 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmicharanmv&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmicharanmv&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmicharanmv&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmicharanmv&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmicharanmv&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmicharanmv&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshmicharanmv&theme=tokyonight&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+## 📊 Contribution & Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmicharanmv&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
