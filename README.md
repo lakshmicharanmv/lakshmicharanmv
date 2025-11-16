@@ -66,12 +66,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:mvlakshmicharan07@gmail.com" style="text-decoration:none;">
-    💌 <strong>Email</strong>: <span style="color:#4CAF50;">mvlakshmicharan07@gmail.com</span>
+  <a href="mailto:mvlakshmicharan07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20Me%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/lakshmicharanmv07/" style="text-decoration:none;">
-    🔗 <strong>LinkedIn</strong>: <span style="color:#0077b5;">linkedin.com/in/lakshmicharanmv07</span>
+  <a href="https://www.linkedin.com/in/lakshmicharanmv07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
